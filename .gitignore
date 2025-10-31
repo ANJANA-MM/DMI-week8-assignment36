@@ -1,0 +1,18 @@
+# Terraform
+terraform/.terraform/
+*.tfstate
+*.tfstate.backup
+terraform_output.json
+*.tfvars
+
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Ansible
+*.retry
+
+# OS / editor files
+.DS_Store
+*.swp
