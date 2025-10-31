@@ -3,7 +3,7 @@ terraform/.terraform/
 *.tfstate
 *.tfstate.backup
 terraform_output.json
-*.tfvars
+
 
 # Python virtual environment
 .venv/
